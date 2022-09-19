@@ -10,5 +10,5 @@ Deprecated - Przestarzałe
 javaScript - język programowania który jest związany z HTML  
 CSS - Cascading Style Sheets - Język służący do opisu formy prezentacji stron WWW 
 <br><br>
-<h1>Znacznik</h1>
+<h1>Znacznik h1 </h1>
 <code>< br ></code> - znacznik nowej linii, przestarzałe < br />
