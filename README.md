@@ -1,7 +1,7 @@
 # witryny
-HTML - HyperText Markup Language -  Hipertekstowy język znaczkinów który pozwala na wyświetlanie stron internetowych za pomocą przeglądarki
-Hipertekst - treść połączona z odsyłaczem do innych stron
-Markup (TAG) - znacznik
+HTML - HyperText Markup Language -  Hipertekstowy język znaczkinów który pozwala na wyświetlanie stron internetowych za pomocą przeglądarki<br>
+Hipertekst - treść połączona z odsyłaczem do innych stron<br>
+Markup (TAG) - znacznik<br>
 Domena - Nazwa (https://github.com/lukaszwitkowski1)
 Hosting - Serwer gdzie przechowujemy pliki stron WWW
 Link - Zmieniony adres ip storny 
