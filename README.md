@@ -20,5 +20,5 @@ CSS - Cascading Style Sheets - Język służący do opisu formy prezentacji stro
 <code>< meta charset="UTF-8" ></code> - polskie znaki na stronie kodowanie UTF-8 lub iso-8859-2 <br>
 <code>< b > i < /b ></code> - pogrubienie<br>
 <code>< i > i < /i ></code> - pochylenie<br>
-<code>< i title="opis tekstu" > i </i></code> - <i title="opis tekstu">pochylenie tekstu razem z opisem podczas nachylenia myszką</i><br>
+<code>< i title="opis tekstu" > i < /i ></code> - <i title="opis tekstu">pochylenie tekstu razem z opisem podczas nachylenia myszką</i><br>
 
