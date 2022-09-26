@@ -16,3 +16,6 @@ CSS - Cascading Style Sheets - Język służący do opisu formy prezentacji stro
 <code>< html > i < / head ></code> - początek i koniec nagłówka html <br>
 <code>< body > i < / body ></code> - początek i koniec ciała(zawartości) dokumentu html <br>
 <code>< p > i < /p ></code> - paragraf<br>
+<code>< b > i < /b ></code> - pogrubienie<br>
+<code>< i > i < /i ></code> - pochylenie<br>
+
