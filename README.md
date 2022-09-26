@@ -22,5 +22,5 @@ CSS - Cascading Style Sheets - Język służący do opisu formy prezentacji stro
 <code>< i > i < /i ></code> - pochylenie<br>
 <code>< i title="opis tekstu" > i < /i ></code> - <i title="opis tekstu">pochylenie tekstu razem z opisem podczas nachylenia myszką</i><br>
 pozycjonowanie stron - 
-<code>< span title="opis tesktu" >  i < /span ></code> - <p> to jest paragraf <span title="opis tekstu"> tekst razem z opisem podczas machylenia myszką</span> koniec paragrafu</p><br> 
+<code>< span title="opis tesktu" >  i < /span ></code> - <p> to jest paragraf <span title="opis tekstu"> tekst razem z opisem podczas nachylenia myszką</span> koniec paragrafu</p><br> 
 
