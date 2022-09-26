@@ -29,4 +29,5 @@ pozycjonowanie stron -
 <code>< h4 > i <  /h4 ></code> - <h4>nagłówek 4 stopnia</h4><br>
 <code>< h5 > i <  /h5 ></code> - <h5>nagłówek 5 stopnia</h5><br>
 <code>< h6 > i <  /h6 ></code> - <h6>nagłówek 6 stopnia</h6><br>
+<code>< body bgcolor="red" ></code> -<body bgcolor="red">kolor tła - w HTML5 nie uzywać
             
