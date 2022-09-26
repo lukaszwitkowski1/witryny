@@ -24,9 +24,9 @@ CSS - Cascading Style Sheets - Język służący do opisu formy prezentacji stro
 pozycjonowanie stron - 
 <code>< span title="opis tesktu" >  i < /span ></code> - <p> to jest paragraf <span title="opis tekstu"> tekst razem z opisem podczas nachylenia myszką</span> koniec paragrafu</p><br> 
 <code>< h1 > i <  /h1 ></code> - <h1>nagłówek 1 stopnia</h1><br>
-<code>< h2 > i <  /h2 ></code> - <h2>nagłówek 1 stopnia</h2><br>
-<code>< h3 > i <  /h3 ></code> - <h3>nagłówek 1 stopnia</h3><br>
-<code>< h4 > i <  /h4 ></code> - <h4>nagłówek 1 stopnia</h4><br>
-<code>< h5 > i <  /h5 ></code> - <h5>nagłówek 1 stopnia</h5><br>
-<code>< h6 > i <  /h6 ></code> - <h6>nagłówek 1 stopnia</h6><br>
+<code>< h2 > i <  /h2 ></code> - <h2>nagłówek 2 stopnia</h2><br>
+<code>< h3 > i <  /h3 ></code> - <h3>nagłówek 3 stopnia</h3><br>
+<code>< h4 > i <  /h4 ></code> - <h4>nagłówek 4 stopnia</h4><br>
+<code>< h5 > i <  /h5 ></code> - <h5>nagłówek 5 stopnia</h5><br>
+<code>< h6 > i <  /h6 ></code> - <h6>nagłówek 6 stopnia</h6><br>
             
