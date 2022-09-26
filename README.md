@@ -2,7 +2,7 @@
 HTML - HyperText Markup Language -  Hipertekstowy język znaczkinów który pozwala na wyświetlanie stron internetowych za pomocą przeglądarki<br>
 Hipertekst - treść połączona z odsyłaczem do innych stron<br>
 Markup (TAG) - znacznik<br>
-Domena - Nazwa (https://github.com/lukaszwitkowski1)<br>
+Domena -  to unikalny adres internetowy który jest łatwy do zapamietania (https://github.com/lukaszwitkowski1)<br>
 Hosting - Serwer gdzie przechowujemy pliki stron WWW<br>
 Link - Zmieniony adres ip storny <br>
 HTML 4 vs XHTML vs HTML 5 - <br>
