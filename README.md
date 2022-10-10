@@ -67,6 +67,6 @@ pozycjonowanie stron -
   <h3>linki HTML</h3>
   <code>< a > i < /a ></code> - pocztae i koneic linka  np. <a>LINK</a><br>
   <code>< a href="" > i < /a ></code> - pocztake i koniec linka z przekierowniem do innej lokalizacji
-   np. <a href="onet.pl">LINK</a><br>
+  np. <a href="onet.pl">LINK</a><br>
 
             
