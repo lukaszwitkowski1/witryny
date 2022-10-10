@@ -68,7 +68,7 @@ pozycjonowanie stron -
   <code>< a > i < /a ></code> - pocztae i koneic linka  np. <a>LINK</a><br>
   <code>< a href="" > i < /a ></code> - pocztake i koniec linka z przekierowniem do innej lokalizacji
   np. <a href="https://onet.pl">LINK</a><br>
-  <code>< a target="" > i < /a ></code> - pocztaek i koniec linka z okresleniem w jakim miejscu ma zostać otwarty link np. <a href="https://onet.pl" target="_blank">     LINK<a/><br>
+  <code>< a target="" > i < /a ></code> - pocztaek i koniec linka z okresleniem w jakim miejscu ma zostać otwarty link np. <a href="https://onet.pl" target="_blank">     LINK</a><br>
   
 
             
