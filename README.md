@@ -58,6 +58,10 @@ pozycjonowanie stron -
 <code>< dl > i < /dl> </code> - poczatek i koniec definicji<br>
 <code>< dt > i < /dt> </code> - Definition term - definicja<br>
 <code>< dd > i < /dd> </code> - Definiotion descryption - opis pojecia<br> 
-<h4> 
+  <h4> przyklad</h4>
+  <dl>
+    <dt>HTML</dl>
+    <dd>jezyk hipertekstowy opisu ston internetowych</dd>
+  </dl>
 
             
