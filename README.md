@@ -65,6 +65,6 @@ pozycjonowanie stron -
   </dl>
 <hr>
   <h3>linki HTML</h3>
-  <code>< a > i < /a ></code> - pocztae i koneic linka  np. <a.LNK</a><br>
+  <code>< a > i < /a ></code> - pocztae i koneic linka  np. <a>LNK</a><br>
 
             
