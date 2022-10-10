@@ -55,5 +55,5 @@ pozycjonowanie stron -
   <li>Pawcio</li>
  </ul>
   
-<code> <dl> i < /dl> </code> - poczatke i koniec definicji<br>
+<code>< dl > i < /dl> </code> - poczatke i koniec definicji<br>
             
