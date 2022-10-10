@@ -30,4 +30,28 @@ pozycjonowanie stron -
 <code>< h5 > i <  /h5 ></code> - <h5>nagłówek 5 stopnia</h5><br>
 <code>< h6 > i <  /h6 ></code> - <h6>nagłówek 6 stopnia</h6><br>
 <code>< body bgcolor="red" ></code> -<body bgcolor="red"> kolor tła - w HTML5 nie uzywać<br>
+<code>< hr > i < /hr ></code> - linia horyzontalna<br>
+<code>< hr > i < /hr ></code> - pogrubiony teskt wyglada tak samo jak znacznik b ale nadaje wieksze znaczenie dla tekstu<br>
+<code>< em > i < /em ></code> - pochylony tekst wyglada tak samo jak znacznik b ale nadaje wieksz znaczenie dla tekstu<br>
+<code>< small > i < /small ></code> - zmniejszenie tekstu<br>
+<code>< mark > i < / mark ></code> - wyróżnienie tekstu<br>
+<code>< sup > i < /sup ></code> - indeks dolny<br>
+<code>< s > i < /s ></code> - przekreslenie tekstu zaznaczenie ze cos zostalo usuniete ze strony<br>
+<code>< ins > i < /ins ></code> - fragment dodany do poprzegniego tekstu<br>
+<code>< ol > i < ol ></code> - poczatek i koniec listy uporządkowanej<br>
+<code>< ul > i < /ul ></code> - poczatek i koniec listy nieuporządkowanej<br>
+<code>< li > i < /il ></code> - element listy<br>
+
+<h4>Przykłady</h4>
+<ol>
+  <li>Danila</li>
+  <li>Łukasz</li>
+  <li>Pawcio</li>
+ </ol>
+ 
+ <ul>
+  <li>Danila</li>
+  <li>Łukasz</li>
+  <li>Pawcio</li>
+ </ul>
             
