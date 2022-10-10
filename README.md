@@ -40,7 +40,7 @@ pozycjonowanie stron -
 <code>< ins > i < /ins ></code> - fragment dodany do poprzegniego tekstu<br>
 <code>< ol > i < ol ></code> - poczatek i koniec listy uporządkowanej<br>
 <code>< ul > i < /ul ></code> - poczatek i koniec listy nieuporządkowanej<br>
-<code>< li > i < /il ></code> - element listy<br>
+<code>< li > i < /li ></code> - element listy<br>
 
 <h4>Przykłady</h4>
 <ol>
