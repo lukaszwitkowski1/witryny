@@ -31,7 +31,7 @@ pozycjonowanie stron -
 <code>< h6 > i <  /h6 ></code> - <h6>nagłówek 6 stopnia</h6><br>
 <code>< body bgcolor="red" ></code> -<body bgcolor="red"> kolor tła - w HTML5 nie uzywać<br>
 <code>< hr > i < /hr ></code> - linia horyzontalna<br>
-<code>< hr > i < /hr ></code> - pogrubiony teskt wyglada tak samo jak znacznik b ale nadaje wieksze znaczenie dla tekstu<br>
+<code>< strong > i < /strong ></code> - pogrubiony teskt wyglada tak samo jak znacznik b ale nadaje wieksze znaczenie dla tekstu<br>
 <code>< em > i < /em ></code> - pochylony tekst wyglada tak samo jak znacznik b ale nadaje wieksz znaczenie dla tekstu<br>
 <code>< small > i < /small ></code> - zmniejszenie tekstu<br>
 <code>< mark > i < / mark ></code> - wyróżnienie tekstu<br>
