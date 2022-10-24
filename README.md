@@ -72,5 +72,5 @@ pozycjonowanie stron -
   <hr>
     <h3>grafika na stronie</h3>
     <code> imgr src="" </a></code> = Wyświetlanie grafiki/obrazu na stornie <img src="https://i.ytimg.com/vi/_d6a9AxwGJs/maxresdefault.jpg"><br>
-    <code> imgr src="" width ="" height=""</code> =grafika zostaie zeskalowana, nie zostanie orginał zmniejszony <img src="https://i.ytimg.com/vi/_d6a9AxwGJs/maxresdefault.jpg "widht="100" height"100"><br>
+    <code> imgr src="" width ="" height=""</code> =grafika zostaie zeskalowana, nie zostanie orginał zmniejszony <img src="https://i.ytimg.com/vi/_d6a9AxwGJs/maxresdefault.jpg> "widht="100" height"100"><br>
             
