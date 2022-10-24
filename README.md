@@ -71,5 +71,6 @@ pozycjonowanie stron -
   <code>< a target="" > i < /a ></code> - pocztaek i koniec linka z okresleniem w jakim miejscu ma zostać otwarty link np. <a href="https://onet.pl" target="_blank">     LINK</a><br>
   <hr>
     <h3>grafika na stronie</h3>
-    <code> imgr src="" i </a><code> = Wyświetlanie grafiki/obrazu na stornie <img src="https://i.ytimg.com/vi/_d6a9AxwGJs/maxresdefault.jpg"><br>
+    <code> imgr src="" </a></code> = Wyświetlanie grafiki/obrazu na stornie <img src="https://i.ytimg.com/vi/_d6a9AxwGJs/maxresdefault.jpg"><br>
+    <code> imgr src="" width ="" height=""</code> =grafika zostaie zeskalowana, nie zostanie orginał zmniejszony <img src="https://i.ytimg.com/vi/_d6a9AxwGJs/maxresdefault.jpg "widht="100" height"100"><br>
             
