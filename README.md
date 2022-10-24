@@ -74,7 +74,7 @@ pozycjonowanie stron -
 <code>< imgr src="" ></code> = wyświetlanie grafiki/obrazu na stronie<br> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Olive_baboon_bwindi_impenetrable_national_park.jpg%22%3E<br>
 <code>< imgr src="" width="" height=""></code> = grafika zostanie zeskalowana, nie zostanie oryginał zmniejszony<br><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Olive_baboon_bwindi_impenetrable_national_park.jpg" width="100" height="100"><br>
 <code>< imgr src="" alt="" ></code> = wyświetlanie grafiki/obrazu na stronie wraz z tekstem alternatywnym, wyświetli się kiedy nie będzie dostępny obraz <br><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Oli423baboon_bwindi_impenetrable_national_park.jpg" alt="obraz się nie załadował"><br>
-<code>< imgr src="" title="" ></code> = wyświetlanie grafiki/obrazu na stronie wraz z tekstem, który pojawia się po najechaniu kursorem <br><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Olive_baboon_bwindi_impenetrable_national_park.jpg" title="tekst wyswietlajacy sie po najechaniu kursorem"><br>
+<code>< imgr src="" title="" ></code> = wyświetlanie grafiki/obrazu na stronie wraz z tekstem, który pojawia się po najechaniu kursorem <br><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Olive_baboon_bwindi_impenetrable_national_park.jpg" title="idiota po pancernych nie idiotach"><br>
 <code>< figure ><br>
  < img src="" ><br>
   < figcaption > - Podpis obrazu <br>
