@@ -70,7 +70,12 @@ pozycjonowanie stron -
   np. <a href="https://onet.pl">LINK</a><br>
   <code>< a target="" > i < /a ></code> - pocztaek i koniec linka z okresleniem w jakim miejscu ma zostać otwarty link np. <a href="https://onet.pl" target="_blank">     LINK</a><br>
   <hr>
-    <h3>grafika na stronie</h3>
-    <code> imgr src="" </a></code> = Wyświetlanie grafiki/obrazu na stornie <img src="https://i.ytimg.com/vi/_d6a9AxwGJs/maxresdefault.jpg"><br>
-    <code> imgr src="" width ="" height=""</code> =grafika zostaie zeskalowana, nie zostanie orginał zmniejszony <img src="https://i.ytimg.com/vi/_d6a9AxwGJs/maxresdefault.jpg> "widht="100" height"100"><br>
-            
+   <h3> Grafika na stronie <h3>
+<code>< imgr src="" ></code> = wyświetlanie grafiki/obrazu na stronie<br> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Olive_baboon_bwindi_impenetrable_national_park.jpg%22%3E<br>
+<code>< imgr src="" width="" height=""></code> = grafika zostanie zeskalowana, nie zostanie oryginał zmniejszony<br><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Olive_baboon_bwindi_impenetrable_national_park.jpg" width="100" height="100"><br>
+<code>< imgr src="" alt="" ></code> = wyświetlanie grafiki/obrazu na stronie wraz z tekstem alternatywnym, wyświetli się kiedy nie będzie dostępny obraz <br><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Oli423baboon_bwindi_impenetrable_national_park.jpg" alt="obraz się nie załadował"><br>
+<code>< imgr src="" title="" ></code> = wyświetlanie grafiki/obrazu na stronie wraz z tekstem, który pojawia się po najechaniu kursorem <br><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Olive_baboon_bwindi_impenetrable_national_park.jpg" title="tekst wyswietlajacy sie po najechaniu kursorem"><br>
+<code>< figure ><br>
+ < img src="" ><br>
+  < figcaption > - Podpis obrazu <br>
+    < /figcaption > </code>- wyświetlanie podpisu pod obrazem<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Olive_baboon_bwindi_impenetrable_national_park.jpg" title="tekst wyswietlajacy sie po najechaniu kursorem"><br>
