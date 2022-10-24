@@ -90,4 +90,4 @@ pozycjonowanie stron -
   </figure>
 <p>co to jest JPG i jakie ma cechy - zadanie domowe<p><br>
 <ol>
-  <li>JPG (Joint Photographic Experts Group) jest to chyba najpopularniejszy format zapisu plików rastrowych, bazujący na kompresji, sterowalnej w skali od 1 do 100. Używa się go do zapisu zdjęć i wszelkich wielobarwnych grafik.</li>
+  <li>JPG (Joint Photographic Experts Group) jest to najpopularniejszy format zapisu plików rastrowych, bazujący na kompresji, sterowalnej w skali od 1 do 100. Używa się go do zapisu zdjęć i wszelkich wielobarwnych grafik.</li>
