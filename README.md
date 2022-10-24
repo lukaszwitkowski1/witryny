@@ -88,5 +88,5 @@ pozycjonowanie stron -
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Olive_baboon_bwindi_impenetrable_national_park.jpg" title="tekst wyswietlajacy sie po najechaniu kursorem" title=tekst wyswietlajacy sie po najechaniu kursorem">
   <figcaption>Podpis obrazu</figcaption>
   </figure>
-
+<p>co to jest JPG i jakie ma cechy - zadanie domowe<p>
   
