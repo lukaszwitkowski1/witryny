@@ -88,6 +88,6 @@ pozycjonowanie stron -
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Olive_baboon_bwindi_impenetrable_national_park.jpg" title="tekst wyswietlajacy sie po najechaniu kursorem" title=tekst wyswietlajacy sie po najechaniu kursorem">
   <figcaption>Podpis obrazu</figcaption>
   </figure>
-<p>co to jest JPG i jakie ma cechy - zadanie domowe<p><br>
+<p>co to jest JPG i jakie ma cechy<p><br>
 <ol>
   <li>JPG (Joint Photographic Experts Group) jest to najpopularniejszy format zapisu plików rastrowych, bazujący na kompresji, sterowalnej w skali od 1 do 100. Używa się go do zapisu zdjęć i wszelkich wielobarwnych grafik.</li>
