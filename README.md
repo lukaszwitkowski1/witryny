@@ -146,7 +146,7 @@ pozycjonowanie stron -
 <br>
   <code>< thead > i < /thead ></code> - początek i koniec sekcji nagłówka tabeli<br>
   <code>< tbody > i < /tbody ></code> - początek i koniec sekcji głównej tabeli<br>
-  <code>< tfoot > i < /tfoot ></code> - początek i koniec sekcji stopki tabeli<br>\
+  <code>< tfoot > i < /tfoot ></code> - początek i koniec sekcji stopki tabeli<br>
   
 
 
