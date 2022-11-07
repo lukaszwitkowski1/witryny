@@ -94,6 +94,7 @@ pozycjonowanie stron -
   
   <code>< table > i < /table ></code> - początek i koniec tabeli<br>
 <code>< tr > i < /tr ></code> - początek i koniec wiersza tabeli<br>
+<code>< td > i < /td ></code> - początek i koniec komórki tabeli<br>
 <table>
   <tr>
     <td>komórka</td>
@@ -105,7 +106,7 @@ pozycjonowanie stron -
   </tr>
 </table>
 <br>
-  <code>< th > i < /th> </code> - początek i koniec nagłówka wiersza/kolmuny tabeli <br> 
+  <code>< td > i < /td> </code> - początek i koniec nagłówka wiersza/kolmuny tabeli <br> 
   <table>
   <tr>
     <th scope="col">Nagłówek</td>
@@ -121,5 +122,6 @@ pozycjonowanie stron -
  </tr>
  </table>
 <br>
+  
 
 
