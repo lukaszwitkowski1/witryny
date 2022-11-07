@@ -133,7 +133,7 @@ pozycjonowanie stron -
   <code>< td rowspan="" > i < /td ></code> - początek i koniec komórki tabeli, która jest połączona po wierszach<br>
   <table>
   <tr>
-    <td>komórka</td>
+    <td>komórka 1</td>
     <td rowspan="3">komórka 2</td>
   </tr>
   <tr>
