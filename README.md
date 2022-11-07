@@ -105,3 +105,20 @@ pozycjonowanie stron -
   </tr>
 </table>
 <br>
+  <code>< th > i < /th> </code> początek i koniec nagłówka wiersza/kolmuny tabeli <br> 
+  <table>
+  <tr>
+    <td>Nagłówek</td>
+    <td>Nagłówek 2</td>
+  </tr>
+  <tr>
+    <td>Nagłówek</td>
+    <td>Tekst</td>
+  </tr>
+  <tr>
+   <td>Nagłówek</td>
+   <td>komórka 4</td>
+ </tr>
+ </table>
+<br>
+
