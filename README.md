@@ -108,17 +108,18 @@ pozycjonowanie stron -
   <code>< th > i < /th> </code> - początek i koniec nagłówka wiersza/kolmuny tabeli <br> 
   <table>
   <tr>
-    <td>Nagłówek</td>
-    <td>Nagłówek 2</td>
+    <th scope="col">Nagłówek</td>
+    <th scope="col">Nagłówek 2</td>
   </tr>
   <tr>
-    <td>Nagłówek</td>
+    <th scope="row">Nagłówek</td>
     <td>Tekst</td>
   </tr>
   <tr>
-   <td>Nagłówek</td>
+   <th scope="row">Nagłówek</td>
    <td>komórka 4</td>
  </tr>
  </table>
 <br>
+
 
