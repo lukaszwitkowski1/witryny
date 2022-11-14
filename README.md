@@ -148,5 +148,16 @@ pozycjonowanie stron -
   <code>< tbody > i < /tbody ></code> - początek i koniec sekcji głównej tabeli<br>
   <code>< tfoot > i < /tfoot ></code> - początek i koniec sekcji stopki tabeli<br>
   
+  <h2>Elementy blokowe i liniowe</h2>
+  
+  ![obraz]
+  
+  linia 1 i 3 przenetuje elemnety blokowe takie znaczniki jak np.  h1, ol, ul, dl, p
+  linia 2 i 4 prezentuje elemnety liniowe - znaczniki takie jak np. a, b, strong, i, img 
+  
+  <h2>Indetyfikator</h2>
+  <code> id="jakieś-id" </code> - atrybut znacznika, który pozwa;a odróźnić elementy htmli odnosić się do konkretnych elementów,
+  mogą być wykorzystane jako wewnętrzne odnośnik do miejsca na stonie (w a href="#jakieś-id")
+  
 
 
