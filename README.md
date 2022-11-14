@@ -155,9 +155,21 @@ pozycjonowanie stron -
   linia 1 i 3 przenetuje elemnety blokowe takie znaczniki jak np.  h1, ol, ul, dl, p
   linia 2 i 4 prezentuje elemnety liniowe - znaczniki takie jak np. a, b, strong, i, img 
   
-  <h2>Indetyfikator</h2>
-  <code> id="jakieś-id" </code> - atrybut znacznika, który pozwa;a odróźnić elementy htmli odnosić się do konkretnych elementów,
-  mogą być wykorzystane jako wewnętrzne odnośnik do miejsca na stonie (w a href="#jakieś-id")
+ <h2>Identyfikatory</h2>
+<code> id="jakies-id"</code> - atrybut znacznika, który pozwala odróżnić elementy html i odnosić się od konkretnych elementów, mogą być wykorzystane jako wewnetrzny odnosnik do miejsca na stronie (w a href="#jakieś-id"). Atrybut "id" o tej samej nazwie nie powinien się powtarzać na stronie.
+<code> class="nazwa klasy"</code> - selektor klasy, podobne do id. Można nimi rożróżniać poszczególne elementy html. Stosuje się głównie gdy chcemy nadać taki sam wygląd dla grupy elementów html, rzadziej odnosimy się za ich pomocą do konkretnego miejsca na stronie. Atrybut "clasa" może powtarzać się w dokumencie html.
+<h3>Identyfikatory w CSS</h3>
+<code>#nazwa</code> - odniesienie się do selektora ID w pliku css<br>
+<code>.nazwa</code> - odniesienie się do selektora class w pliku css<br>
+<h2>Sekcje</h2>
+<code>< div > i < /div ></code> - element blokowy strony, nazywany również box'em albo kontenerem. Wewnątrz tego elementu dodajemy wszystkie znaczniki potrzebne w tej sekcji. Można stosować z identyfikatorami id lub class<br>
+<code>< header > i < /header ></code> - początek i koniec sekcji nagłówka strony (góra strony). Tutaj umieszcamy zazwyczaj logo strony i menu główne.<br>
+<code>< footer > i < /footer ></code> - początek i koniec sekcji stopki strony (dół strony). Tutaj umieszcamy zazwyczaj prawa autorskie, dane kontaktowe.<br>
+<code>< main > i < /main ></code> - początek i koniec sekcji sekcji głównej (uniwersalnej) strony (środek strony). Tutaj umieszcamy zazwyczaj treść strony.<br>
+<code>< nav > i < /nav ></code> - początek i koniec sekcji sekcji nawigacji głównej strony. Tutaj umieszcamy zazwyczaj linki do innnych podstron na stronie.<br>
+<code>< aside > i < /aside ></code> - początek i koniec sekcji sekcji bocznej strony. Tutaj umieszcamy zazwyczaj elementy nie związane z główną treścią strony, zazwyczaj boczne menu.<br>
+<code>< article > i < /article ></code> - początek i koniec sekcji sekcji artykułu / wpiusu strony. Tutaj umieszcamy zazwyczaj tekst w bloga.<br>
+<code>< section > i < /section ></code> - początek i koniec sekcji sekcji ogólnej bez specjalnego przeznaczenia. Tutaj umieszcamy dowolne teksty i elementy strony.<br>
   
 
 
