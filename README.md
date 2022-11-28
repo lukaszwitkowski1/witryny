@@ -183,4 +183,5 @@ Element samozamykający, nie ,ma znacznika końcowego.<input><br>
 <li><code> input type="button" </code> Przycisk do wykonania formularza <input type="button"></li>                   <li><code> input type="date" </code> Pole daty <input type="date"></li>     
 <li><code> input type="color" </code> Pole do wyboru koloru <input type="color"></li>  
 <li><code> input type="FileUpload" </code> Przycisk do wykonania formularza <input type="FileUpload"></li>  
-</ol>                                                                                                    
+</ol> 
+                                                                                                 
