@@ -178,13 +178,7 @@ Element samozamykający, nie ,ma znacznika końcowego.<input><br>
 <h4>Typy znacznika input</h4>
 <ol>
 <li><code> input type="text" </code> Pole tekstowe <input type="text"></li>
-<li><code> input type="number" </code> Pole tekstowe <input type="number"></li>
-<li><code> input type="text" </code> Pole tekstowe <input type="text"></li>
-<li><code> input type="text" </code> Pole tekstowe <input type="text"></li>                                                          sdasdadas                                                                    
- sadsad asda dad asdasa      dsad                                                                                                                        d sada dass fgdsygsfywefw97efd7ft7wetf7weft7dwft7ewt78tf9twfydgf8q2hoidhaisgfew8f7ds fawd wd7asyf89wqhsa8fqhgsgsywdiadhc0 qugofdvac a0duyDiyfq8d D8YQD8yuwhgweg9dgwdhgowgwgw
- 
- wgh8gfqweg
- qgqgfqgq
- gqgq qg q gwqghqqwqfhhqf qfwqfhqisf asdwifdas dwqfqasfh qwiifwyskweretyuivosiema mam 
- 
- szsiema mam pytankied asd asdashrwwyfwgfwftsbshgssdgsg d                                                           
+<li><code> input type="number" </code> pole do wprowadzania liczby <input type="number"></li>
+<li><code> input type="password" </code> pole do wprowadzania hasła <input type="password"></li>
+<li><code> input type="button" </code> Przycisk do wykonania formularza <input type="button"></li>                   <li><code> input type="date" </code> Pole daty <input type="date"></li>     
+<li><code> input type="color" </code> Pole do wyboru koloru <input type="color"></li>  
