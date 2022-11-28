@@ -178,4 +178,6 @@ Element samozamykający, nie ,ma znacznika końcowego.<input><br>
 <h4>Typy znacznika input</h4>
 <ol>
 <li><code> input type="text" </code> Pole tekstowe <input type="text"></li>
-</ol>
+<li><code> input type="number" </code> Pole tekstowe <input type="number"></li>
+<li><code> input type="text" </code> Pole tekstowe <input type="text"></li>
+<li><code> input type="text" </code> Pole tekstowe <input type="text"></li>                                                                     
