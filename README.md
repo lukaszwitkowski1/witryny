@@ -171,5 +171,11 @@ pozycjonowanie stron -
 <code>< article > i < /article ></code> - początek i koniec sekcji sekcji artykułu / wpiusu strony. Tutaj umieszcamy zazwyczaj tekst w bloga.<br>
 <code>< section > i < /section ></code> - początek i koniec sekcji sekcji ogólnej bez specjalnego przeznaczenia. Tutaj umieszcamy dowolne teksty i elementy strony.<br>
   
-
-
+<hr>
+<h2>Fromularze</h2>
+<code> input </code> element pozwalający na wprowadzanie danych wyjściowcyh przez użytkownia.
+Element samozamykający, nie ,ma znacznika końcowego.<input><br>
+<h4>Typy znacznika input</h4>
+<ol>
+<li> <code> input type="text" </code> Pole tekstowe <input type="text"></li>
+</ol>
