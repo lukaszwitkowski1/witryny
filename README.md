@@ -181,3 +181,4 @@ Element samozamykający, nie ,ma znacznika końcowego.<input><br>
 <li><code> input type="number" </code> Pole tekstowe <input type="number"></li>
 <li><code> input type="text" </code> Pole tekstowe <input type="text"></li>
 <li><code> input type="text" </code> Pole tekstowe <input type="text"></li>                                                          sdasdadas                                                                    
+ sadsad asda dad asdasa      dsad                                                                                                                                                                                   
