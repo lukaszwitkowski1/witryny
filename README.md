@@ -209,3 +209,9 @@ Przykład
 <option>Bartek</option>
 <option>Kamil</option>
 </select>
+<code> form i /form </code> deklaracja początku i końca formularza<br>
+<code> input type="submit" </code> przycisk, który powoduje przesyłanie/wykonanie formularza, parametr value określa tekst któr ma się pojawić na przycisku <input type="submit"></li>
+Metody przesyłania formularza:
+<code> from method="GET" i /from </code> przesyłanie formularza za pomocą jawnego tekstu<br>
+<code> from method="POST" i /from </code> przesyłanie formularza za pomocą jawnego tekstu<bbr>
+                        
