@@ -197,3 +197,4 @@ Atrybut name pozwala nam określić, że dame pole radio jest w tej samej grupie
 <input type="checkbox" value="wybor2">wybor 2<br>
 <input type="checkbox" value="wybor3">wybor 3<br>
 pole checkbox pozwala użytkownikowi na zaznczenie dowolje ilosci pl checkbox<br>
+<code> textearea cols="50" i /textearea </code> pozwala wprowadzać dłuższy tekst w kilku linijkach, za pomocą parametru cols możemy określić ilość linii <textarea cols="50"></textarea<br>
