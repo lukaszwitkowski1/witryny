@@ -184,4 +184,9 @@ Element samozamykający, nie ,ma znacznika końcowego.<input><br>
 <li><code> input type="color" </code> Pole do wyboru koloru <input type="color"></li>  
 <li><code> input type="FileUpload" </code> Przycisk do wykonania formularza <input type="FileUpload"></li>  
 </ol> 
-                                                                                                 
+<code input="radio"</code> pole wyboru w jednej grupie możemy wybrać tylko jedną opcję
+<br>
+<input type="radio" name="opcja" value="wybor1">wybor 1<br>
+<input type="radio" name="opcja" value="wybor1">wybor 2<br>
+<input type="radio" name="opcja" value="wybor1">wybor 3<br>
+Atrybut name pozwala nam określić, że dame pole radio jest w tej samej grupie, atrybut value określa wartość dla wybranej opcj<br>
