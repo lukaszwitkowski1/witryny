@@ -193,7 +193,7 @@ Atrybut name pozwala nam określić, że dame pole radio jest w tej samej grupie
 
 <code input="checkbox"</code> pole potwierdzenia stosujemy w przypadkunp. zgody marketingowej
 <br>
-<input type="radio" value="wybor1">wybor 1<br>
-<input type="radio" value="wybor2">wybor 2<br>
-<input type="radio" value="wybor3">wybor 3<br>
+<input type="checkbox" value="wybor1">wybor 1<br>
+<input type="checkbox" value="wybor2">wybor 2<br>
+<input type="checkbox" value="wybor3">wybor 3<br>
 pole checkbox pozwala użytkownikowi na zaznczenie dowolje ilosci pl checkbox<br>
