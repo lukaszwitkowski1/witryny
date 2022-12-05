@@ -190,3 +190,10 @@ Element samozamykający, nie ,ma znacznika końcowego.<input><br>
 <input type="radio" name="opcja" value="wybor2">wybor 2<br>
 <input type="radio" name="opcja" value="wybor3">wybor 3<br>
 Atrybut name pozwala nam określić, że dame pole radio jest w tej samej grupie, atrybut value określa wartość dla wybranej opcj<br>
+
+<code input="checkbox"</code> pole potwierdzenia stosujemy w przypadkunp. zgody marketingowej
+<br>
+<input type="radio" value="wybor1">wybor 1<br>
+<input type="radio" value="wybor2">wybor 2<br>
+<input type="radio" value="wybor3">wybor 3<br>
+pole checkbox pozwala użytkownikowi na zaznczenie dowolje ilosci pl checkbox<br>
