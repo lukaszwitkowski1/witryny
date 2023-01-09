@@ -172,9 +172,8 @@ pozycjonowanie stron -
 <code>< section > i < /section ></code> - początek i koniec sekcji sekcji ogólnej bez specjalnego przeznaczenia. Tutaj umieszcamy dowolne teksty i elementy strony.<br>
   
 <hr>
-<h2>Fromularze</h2>
-<code> input </code> element pozwalający na wprowadzanie danych wyjściowcyh przez użytkownia.
-Element samozamykający, nie ,ma znacznika końcowego.<input><br>
+<h2>Formularze</h2>
+<code>< input > i < /input ></code> - element pozwalający na wprowadzenie danych wejściowych przez użytkownika. Element samozamykający, nie ma znacnzika końcowego <br>
 <h4>Typy znacznika input</h4>
 <ol>
   <li><code>< input type="text" ></code> - pole tekstowe <input type="text"></li>
@@ -185,34 +184,37 @@ Element samozamykający, nie ,ma znacznika końcowego.<input><br>
   <li><code>< input type="color" ></code> - pole do wyboru koloru <input type="color"></li>
   <li><code>< input type="FileUpload" ></code> - pole do załadowania pliku <input type="FileUpload"></li>
   </ol>
-<code input="radio"</code> pole wyboru w jednej grupie możemy wybrać tylko jedną opcję
-<br>
-<input type="radio" name="opcja" value="wybor1">wybor 1<br>
-<input type="radio" name="opcja" value="wybor2">wybor 2<br>
-<input type="radio" name="opcja" value="wybor3">wybor 3<br>
-Atrybut name pozwala nam określić, że dame pole radio jest w tej samej grupie, atrybut value określa wartość dla wybranej opcj<br>
-
-<code input="checkbox"</code> pole potwierdzenia stosujemy w przypadkunp. zgody marketingowej
-<br>
-<input type="checkbox" value="wybor1">wybor 1<br>
-<input type="checkbox" value="wybor2">wybor 2<br>
-<input type="checkbox" value="wybor3">wybor 3<br>
-pole checkbox pozwala użytkownikowi na zaznczenie dowolje ilosci pl checkbox<br>
-<code> textearea cols="50" i /textearea </code> pozwala wprowadzać dłuższy tekst w kilku linijkach, za pomocą parametru cols możemy określić ilość linii <textarea cols="50"> </textarea> <br>
-<code> select i /select </code> rozwijana lista w której definiujemy kolejne elementy<br>
-<code> option i /option </code> deklaracja elementów listy rozwijanej atrybut selected określa, który elemnet ma być zaznaczony<br>
-Przykład
-<select>
-<option>Tomek</option>
-<option>Łukaszk</option>
-<option>Danila</option>
-<option>Sebastian</option>
-<option>Bartek</option>
-<option>Kamil</option>
-</select>
-<code> form i /form </code> deklaracja początku i końca formularza<br>
-<code> input type="submit" </code> przycisk, który powoduje przesyłanie/wykonanie formularza, parametr value określa tekst któr ma się pojawić na przycisku <input type="submit"></li>
-Metody przesyłania formularza:
-<code> from method="GET" i /from </code> przesyłanie formularza za pomocą jawnego tekstu<br>
-<code> from method="POST" i /from </code> przesyłanie formularza za pomocą jawnego tekstu<bbr>
-                        
+  <code>< input value="" ></code> - element pozwalający na wprowadzenie danych wejściowych z określoną wartością domyślną<input><br>
+<code>< input disabled ></code> - element pozwalający na wprowadzenie danych jest niedostępny/wyłączony.<input><br>
+  <code>< label > i < /label ></code> - etykieta, którą użytkownik nie może edytować, zazwyczaj informacja co mamy wprowadzić do formularza <label>Cena<input type="number"></label?<input><br>
+    <code>< input type="text" placeholder="imie i nazwisko" > i < /label ></code> - placeholder to jest tekst wypełniający input, tekst znikne w momencie kliknięcia w input <input type="text" placeholder="imie i nazwisko"><input><br>
+<input type="text" placeholder+"imie i nazwisko"><br>
+   <code> < input type="radio" ></code> pole wyboru w jednej grupie mozemy wybrac tylko jedna opcje 
+   <br>
+   <input type="radio" name="opcja" value="wybor1">Wybor 1<br>
+   <input type="radio" name="opcja" value="wybor1">Wybor 2<br>
+   <input type="radio" name="opcja" value="wybor1">Wybor 3<br>
+Atrybut name pozwala nam olreslic ze dane pole radio jst w tej samej grupie atrybut value okresla wartosc dla wybranej opcji<br>
+    <code> < input type="checkbox" ></code> pole potwierdzenia swosujemy w przypadku np. zgody marketingowej 
+   <br>
+   <input type="checkbox"  value="wybor1">Wybor 1<br>
+   <input type="checkbox"  value="wybor1">Wybor 2<br>
+   <input type="checkbox"  value="wybor1">Wybor 3<br>
+Pole checkbox pozwala uzytkownikowi na zaznaczenie dowolmej ilosci pol checkbox<br>
+   <code>< textarea cols="50" > i < /textarea > </code> pozwala wprowadzac  dluzszy tekst w kilku kinijkach za pomoca parametru cols mozemy okreslic ilosc linii <textarea cols"50"></textarea><br>
+   <code>< select> i < /select > </code> rozwija lista w ktorej definijmy kolejne elementy<br>
+   <code>< option> i < /option ></code> deklaracja elementow listy rozwijanej atrybut selected okresla ktory element ma byc zaznaczony<br>
+   np
+   <select>
+    <option>Tomek</option>
+      <option>Lukasz</option>
+      <option>Danila</option>
+      <option>Bartek</option>
+      <option>Seba</option>
+      <option>Kamil</option>
+   </select>
+   <code>< form > i < /form ></code> deklaracja poczatku i konca formularzqa<br>
+   <code>< input type="submit" > </code> prycis ktory powoduje przeslnie/wykonanie formularza parametr value okresla tekst ktory ma sie pojawi na przycisku <input type="submit'></li>
+    metody przeslania formularza
+   
+<code>< form action="plik.php" > i < /form ></code> - parametr action powoduje przesłanie danych z formularza do pliku podanego jako wartość parametru "action"<br>
