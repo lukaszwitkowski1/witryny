@@ -177,13 +177,14 @@ pozycjonowanie stron -
 Element samozamykający, nie ,ma znacznika końcowego.<input><br>
 <h4>Typy znacznika input</h4>
 <ol>
-<li><code> input type="text" </code> Pole tekstowe <input type="text"></li>
-<li><code> input type="number" </code> pole do wprowadzania liczby <input type="number"></li>
-<li><code> input type="password" </code> pole do wprowadzania hasła <input type="password"></li>
-<li><code> input type="button" </code> Przycisk do wykonania formularza <input type="button"></li>                   <li><code> input type="date" </code> Pole daty <input type="date"></li>     
-<li><code> input type="color" </code> Pole do wyboru koloru <input type="color"></li>  
-<li><code> input type="FileUpload" </code> Przycisk do wykonania formularza <input type="FileUpload"></li>  
-</ol> 
+  <li><code>< input type="text" ></code> - pole tekstowe <input type="text"></li>
+  <li><code>< input type="number" ></code> - pole do wprowadzania liczby <input type="number"></li>
+  <li><code>< input type="password" ></code> - pole do wprowadzania hasła <input type="password"></li>
+  <li><code>< input type="button" ></code> - przycisk do wykonania formularza <input type="button"></li>
+  <li><code>< input type="date" ></code> - pole daty <input type="date"></li>
+  <li><code>< input type="color" ></code> - pole do wyboru koloru <input type="color"></li>
+  <li><code>< input type="FileUpload" ></code> - pole do załadowania pliku <input type="FileUpload"></li>
+  </ol>
 <code input="radio"</code> pole wyboru w jednej grupie możemy wybrać tylko jedną opcję
 <br>
 <input type="radio" name="opcja" value="wybor1">wybor 1<br>
