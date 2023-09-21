@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="1">
+    <title>tak</title>
+    <style>
+        p{
+            font-size: 40px;
+        }
+    </style>
+</head>
+<body>
+    <p>Formularz Zapytania</p>
+    <div>
+    <fieldset>
+        <legend>Lot</legend><br>
+        <form action="" method="get">
+        <label for="data">
+        <legend>Miejsce wylotu</legend>
+        <input type="datetime-local"><br><br>
+        <legend>Miejsce wylotu</legend>
+        <select id="Miasto" name="Miasto"><br><br>
+            <option value="Katowice">Katowice</option>
+            <option value="Wrocław">Wrocław</option>
+            <option value="Warszawa">Warszawa</option>
+            <option value="Rybnik">Poznań</option>
+        </select><br><br>
+        <legend>Miejsce Docelowe</legend>
+        <select id="Miejsce" name="Miejsce">
+            <option value="Japonia">Japonia</option>
+            <option value="Karaiby">Karaiby</option>
+            <option value="Niemcy">Niemcy</option>
+            <option value="Holandia">Holandia</option>
+        </select><br><br>
+        <legend>Bagaz</legend>
+        <input type="radio" id="html" name="tak" value="SIGMA"><label>TAK</label><br>
+        <input type="radio" id="html" name="tak" value="RESPECT"><label>NIE</label><br><br>
+        <legend>Ilosc osob</legend>
+        <input type="range"><br><br>
+        <legend>Klasa</legend>
+       <input type="radio" id="html" name="tak" value="SIGMA"> <label>Buisnes</label>
+       <input type="radio" id="html" name="tak" value="RESPECT"> <label>Ekonomic</label>
+    </fieldset>
+    <fieldset> 
+    <legend>Dane</legend>
+    Imie<br>
+    <input type="text" id="firstname" name="imie" placeholder="Wpisz imie"><br>
+    <label for="lastname"></label>
+    Nazwisko<br>
+    <input type="text" id="lastname" name="nazwisko" placeholder="Wpisz nazwisko"><br>
+    Email<br>
+    <input type="email" id="email" name="email" placeholder="Wpisz email"><br>
+    Numer tel<br>
+    <input type="number"><br>
+    </fieldset>   
+    <fieldset>
+    <legend>Uwagi</legend>
+    <textarea name="message" rows="20" cols="100"></textarea>
+    </fieldset>
+    <input type="checkbox" name="tak"><label>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ab dolorum deleniti dolorem, adipisci saepe tempore optio officia laborum libero excepturi deserunt reprehenderit quibusdam, mollitia nobis voluptatem neque porro delectus non quaerat. Quod labore distinctio ducimus soluta quas quisquam quia quis voluptatibus deserunt libero dolores, culpa porro? Beatae doloremque sapiente voluptatibus!</label><br><br>
+    <input type="submit" value="Wyślij zapytanie">
+    </form>
+    </div>
+
+</body>
+</html>
