@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+
+body{
+    background: white;
+}
+.trzy{
+    list-style-type: square;
+}
+.dwa{
+    list-style-type: lower-alpha;
+}
+.jeden li{
+    list-style-image: url();
+    
+}
+table{
+    border:5px double red;
+    border-collapse: collapse;
+    width: 500px;
+    height: 250px;
+}
+th{
+    background-color: black;
+    color:white;
+    border:3px solid;
+}
+td{
+    border: 3px solid;
+}
+tr:nth-child(even){
+    background: red;
+}
+tr:nth-child(odd){
+    background: yellow;
+
+}
+.osiem{
+    overflow-x: auto;
+}
+.pienc{
+    background-color: aqua;
+    margin: 70px 50px 90px;
+}
+.sigma{
+    background: hotpink;
+    max-width: 900px;
+    min-width: 300px;
+    max-height: 200px;
+    min-height: 100px;
+    height: 100vh;
+    border: 5px solid green;
+    margin: 0px auto;
+    padding: 100px;
+
+}
+.ligma{
+    width: 300px;;
+    height: 100px;
+    border:1px solid blue;
+    box-sizing: border-box;
+}
+.wigma{
+    width: 300px;
+    height: auto;
+    padding: 50px;
+    border: 1px solid black;
+    box-sizing: border-box;
+
+}
+a{
+    padding: 10px;
+    display: block;
+
+}
+.nie li{
+    display:inline-block;
+    margin: 0;
+    padding: 10px;
+    width: 100px;
+    height: 30px;
+    background:red;
+    text-align:center;
+}
+.tak div{
+    background: pink;
+    display: inline-block;
+    width: 33%;
+    height: 200px;
+    padding: 0px;
+    margin: 0px;
+    border:1px solid red;
+    box-sizing: border-box;
+}
+
+</style>
+</head>
+<body>
+   <ul class="trzy">
+    <li>jeden</li>
+    <li>dwa</li>
+    <li>trzy</li>
+   </ul>
+   <ol class="dwa">
+    <li>jeden</li>
+    <li>dwa</li>
+    <li>trzy</li>
+   </ol>
+   <ul class="jeden">
+    <li>jeden</li>
+    <li>dwa</li>
+    <li>trzy</li>
+   </ul>
+   <div class="osiem">
+   <table>
+    <tr>
+    <th>jeden</th>
+    <th>dwa</th>
+    <th>trzy</th>
+    </tr>
+    <tr>
+        <td>jeden</td>
+        <td>jeden</td>
+        <td>jeden</td>
+    </tr>
+    <tr>
+        <td>dwa</td>
+        <td>dwa</td>
+        <td>dwa</td>
+    </tr>
+    <tr>
+        <td>trzy</td>
+        <td>trzy</td>
+        <td>trzy</td>
+    </tr>
+    <tr>
+        <td>cztery</td>
+        <td>cztery</td>
+        <td>cztery</td>
+    </tr>
+</table>
+</div>
+<div class="pienc">
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis tempore laboriosam quas adipisci debitis voluptatibus quia dicta, temporibus voluptate modi!
+</div>
+<div class="pienc">
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis ipsam modi libero, eligendi soluta voluptatibus corrupti illo similique repellendus cum.
+</div>
+<div class="sigma">
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi ad architecto sunt animi sed expedita soluta ratione optio officiis possimus!
+</div><br>
+<div class="ligma">
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus, commodi?
+</div><br>
+<div class="wigma">
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus, commodi?
+</div>
+<div>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut a ea atque mollitia minima asperiores? <a href="onet.pl">link<a></a></p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam ab ratione sapiente reprehenderit! Repudiandae! <a href="onet.pl">link<a></a></p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut a ea atque mollitia minima asperiores? <a href="onet.pl">link<a></a></p>
+</div><br>
+<section>
+    <ul class="nie">
+        <li>pierwszy</li>
+        <li>drugi</li>
+        <li>trzeci</li>
+    </ul>
+</section><br>
+<section class="tak">
+    <div>conten1</div>
+    <div>content2</div>
+    <div>content3</div>
+
+</section>
+<section class="sus">
+    <ul>
+        <Li><a href="#">LINK1</a></Li>
+        <Li><a href="#">LINK2</a></Li>
+        <Li><a href="#">LINK3</a></Li>
+    </ul>
+</section>
+</body>
+</html>
